@@ -44,12 +44,11 @@ Gazepoint control (tested with version 7.0.0)
 
 📂 File Structure 
 
-project_folder/
-├── stimuli/        # Experimental images (MIT task)
-├── VWM+MIT（behavioral experiment only).py    # Behavior-only script
-├── VWM+MIT (behavioral experiment+ Eyetracking).py   #Behavior + Eye-tracking version
-└── README.md             # This file
-
+project_folder
+├── stimuli
+├── VWM+MIT（behavioral experiment only).py
+├── VWM+MIT (behavioral experiment+ Eyetracking).py
+└── README.md
 --------------------
 
 👩‍💻 Authors 
@@ -61,5 +60,5 @@ There are no publications and no conflicts of interest
 --------------------
 
 Reference:
-Fougnie, D., & Marois, R. (2006). Distinct capacity limits for attention and working memory: Evidence from attentive tracking and visual working memory paradigms. Psychological Science, 17(6), 526–534. https://doi.org/10.1111/j.1467-9280.2006.01739.x
-Oksama, L., & Hyönä, J. (2016). Position tracking and identity tracking are separate systems: Evidence from eye movements. Cognition, 146, 393–409. https://doi.org/10.1016/j.cognition.2015.10.016
+Fougnie, D., & Marois, R. (2006). Distinct capacity limits for attention and working memory: Evidence from attentive tracking and visual working memory paradigms. _Psychological Science_, 17(6), 526–534. https://doi.org/10.1111/j.1467-9280.2006.01739.x
+Oksama, L., & Hyönä, J. (2016). Position tracking and identity tracking are separate systems: Evidence from eye movements. _Cognition_, 146, 393–409. https://doi.org/10.1016/j.cognition.2015.10.016
